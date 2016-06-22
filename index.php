@@ -2,7 +2,7 @@
 
 return [
 
-    'name' => 'theme-avion',
+    'name' => 'sqd-theme-avion',
 
     /**
      * Menu positions
